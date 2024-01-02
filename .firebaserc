@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-chats-43fd3": {
+      "hosting": {
+        "angular-firebase-chat": [
+          "angular-chats-43fd3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-chats-43fd3"
+  }
+}

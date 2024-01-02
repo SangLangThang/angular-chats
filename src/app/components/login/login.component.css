@@ -1,0 +1,13 @@
+.form-container{
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 48px;
+
+    background: #ecefe1;
+    border-radius: 16px;
+    padding: 48px;
+}
+.form-container mat-form-field{
+    width: 100%;
+}
