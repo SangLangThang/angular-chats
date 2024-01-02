@@ -10,7 +10,6 @@ import { routes } from './app.routes';
 import { AuthenticationService } from './services/authentication.service';
 import { ChatsService } from './services/chats.service';
 import { UsersService } from './services/users.service';
-import { DateDisplayPipe } from './pipes/date-display.pipe';
 export const appConfig: ApplicationConfig = {
   providers: [
     provideRouter(routes),
